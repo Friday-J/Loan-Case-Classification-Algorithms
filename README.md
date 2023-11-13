@@ -15,4 +15,4 @@ Jaccard index
 
 F1-score
 
-LogLoass
+LogLoss
